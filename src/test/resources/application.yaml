@@ -1,0 +1,5 @@
+spring.application.name=CloudVendorAPI
+spring.data.mongodb.port=27017
+spring.data.mongodb.database=clouddb
+spring.thymeleaf.prefix=classpath:/templates/
+spring.thymeleaf.suffix=.html
